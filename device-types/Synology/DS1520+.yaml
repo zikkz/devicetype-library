@@ -1,0 +1,18 @@
+---
+manufacturer: Synology
+model: DS1520+
+slug: ds1520plus
+part_number: DS1520+
+u_height: 4
+comments: '[Synology DS1520+ Specs](https://www.synology.com/en-us/products/DS1520+)'
+is_full_depth: false
+airflow: front-to-rear
+interfaces:
+  - name: LAN 1
+    type: 1000base-t
+  - name: LAN 2
+    type: 1000base-t
+  - name: LAN 3
+    type: 1000base-t
+  - name: LAN 4
+    type: 1000base-t
